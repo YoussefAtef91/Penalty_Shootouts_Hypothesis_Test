@@ -38,6 +38,3 @@ Assumption: Since both teams reached a penalty shootout, we assume they had comp
 
 ### **Final Conclusion:**  
 We **cannot conclude** that the first-shooting team has an **advantage** (or disadvantage). The difference observed is **not statistically significant**.  
-
-## **Contact**  
-If you have any suggestions or feedback, feel free to reach out! 🚀  
